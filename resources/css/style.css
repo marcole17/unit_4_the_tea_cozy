@@ -50,7 +50,7 @@ main {
   display: flex;
   margin: 0px auto auto auto;
   /*padding: 69px 70px;*/
-  background-image: url("file:///C:/Users/Chun/Documents/coding_projects/Unit%204/tea_cozy/resources/images/img-mission-background.jpg");
+  background-image: url("https://raw.githubusercontent.com/marcole17/unit_4_the_tea_cozy/master/resources/images/img-mission-background.jpg");
   height: 700px;
   width: 1200px;
   position: relative;
@@ -128,7 +128,7 @@ main {
   height: 500px;
   width: 1200px;
   margin: auto auto auto auto;
-  background-image: url("file:///C:/Users/Chun/Documents/coding_projects/Unit%204/tea_cozy/resources/images/img-locations-background.jpg");
+  background-image: url("https://raw.githubusercontent.com/marcole17/unit_4_the_tea_cozy/master/resources/images/img-locations-background.jpg");
 }
 
 .locations .sites {
